@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "url": "#",
+      "title": "Besenzoni SpA",
+      "text": "Helm seat ",
+      "labels": [
+        {
+          "type": "sale",
+          "value": "-20%"
+        }
+      ],
+      "image": "05.jpg",
+      "price": "$ 1920",
+      "priceOld": "$ 2 400",
+      "shareUrl": "",
+      "likeUrl": ""
+    },
+    {
+      "id": 6,
+      "url": "#",
+      "title": "Bimini Top Nautica",
+      "text": "Helm wheel protective cover",
+      "labels": "",
+      "image": "06.jpg",
+      "price": "$ 200",
+      "priceOld": "",
+      "shareUrl": "",
+      "likeUrl": ""
+    },
+    {
+      "id": 7,
+      "url": "#",
+      "title": "Fusion Sailboats",
+      "text": "Single-handed sailing dinghy",
+      "labels": [
+        {
+          "type": "new",
+          "value": "New"
+        }
+      ],
+      "image": "07.jpg",
+      "price": "$ 4 750",
+      "priceOld": "",
+      "shareUrl": "",
+      "likeUrl": ""
+    },
+    {
+      "id": 8,
+      "url": "#",
+      "title": "SWELLPRO",
+      "text": "Quadcopter drone ",
+      "labels": [
+        {
+          "type": "new",
+          "value": "New"
+        },
+        {
+          "type": "sale",
+          "value": "-10%"
+        }
+      ],
+      "image": "08.jpg",
+      "price": "$ 450",
+      "priceOld": "$ 500",
+      "shareUrl": "",
+      "likeUrl": ""
+    }
+  ]
+}
